@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+.env
+transcripts.db
+*.wav
+*.mp3
+venv/
+.venv/
